@@ -1,1 +1,3 @@
-# Artificial-neural-network
+# Artificial neural network
+
+Projects for neural network and perceptron
